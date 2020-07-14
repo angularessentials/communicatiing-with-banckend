@@ -6,3 +6,6 @@ Actions like signing-up in an app, leaving a comment, or liking a photo is usual
 
 In this tutorial, you will learn how to retrieve data from a service using HttpClientModule.
 
+## Running app
+
+https://communicating-with-banckend.stackblitz.io
